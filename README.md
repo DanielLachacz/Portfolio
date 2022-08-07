@@ -12,5 +12,5 @@ Self-taught of testing seeking a workplace as an Junior Manual Tester or Junior 
 * uTest Academy
 
 # Books
-ISTQB Poziom Podstawowy
+* ISTQB Poziom Podstawowy
 
