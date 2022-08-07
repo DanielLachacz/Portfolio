@@ -8,5 +8,7 @@ Self-taught of testing seeking a workplace as an Junior Manual Tester or Junior 
 
 # Tech skills
 
+# Courses
+
 # Books
 
