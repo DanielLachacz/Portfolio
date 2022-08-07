@@ -15,3 +15,10 @@ Self-taught of testing seeking a workplace as an Junior Manual Tester or Junior 
 # Books
 * ISTQB Poziom Podstawowy
 
+# Blogs
+* [testerzy.pl](https://testerzy.pl)
+* [testerka.pl](https://testerka.pl)
+* [testuj.pl](https://testuj.pl/blog/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+
+
