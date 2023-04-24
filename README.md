@@ -9,6 +9,7 @@ Self-taught of testing seeking a workplace as an Junior Manual Tester or Junior 
 * [Trello](https://trello.com)
 * [TestRail](https://www.gurock.com/testrail/)
 * [Postman](https://www.postman.com)
+* [InteliiJIDEA](https://www.jetbrains.com/idea/)
 * Github
 
 # Tech skills
@@ -20,6 +21,8 @@ Self-taught of testing seeking a workplace as an Junior Manual Tester or Junior 
 * Creating test cases
 * Reporting bugs
 * API Testing
+* Software testing
+* Xpath
 
 # Courses
 * uTest Academy
